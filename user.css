@@ -103,3 +103,13 @@ body {
     margin: 15px;
     border-radius: 12px;
 }
+
+@media (min-width: 278px) and (max-width:285px){
+.small-icon {
+    position: absolute;
+    width: 35px;
+    top: 50px;
+    left: 16px;
+}
+}
+
